@@ -1,0 +1,26 @@
+{
+  "name": "2134-3",
+  "version": "0.0.2",
+  "description": "Learn express js for robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "Node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andreas333-tech/2134-3.git"
+  },
+  "keywords": [
+    "Robots",
+    "express"
+  ],
+  "author": "Andreas Buneci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andreas333-tech/2134-3/issues"
+  },
+  "homepage": "https://github.com/Andreas333-tech/2134-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
